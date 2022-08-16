@@ -39,3 +39,7 @@ Thumbs.db
 # Visual Studio Code #
 ######################
 .vscode/*
+
+# Word Documents #
+##################
+*.docx
