@@ -72,7 +72,7 @@ The first step is to enable GitHub Pages on this [repository](https://docs.githu
   Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Configure your site</h2></summary>
 
 _You turned on GitHub Pages! :tada:_
