@@ -9,8 +9,6 @@ date: 2022-08-29
 
 <iframe align="right" width="50%" src="https://www.youtube-nocookie.com/embed/7mr8go10ICQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Dull Knives
-
 Dull Knives is a song by the pop rock band Imagine Dragons, founded in 2008. Imagine Dragons was Spotify’s most-streamed music creator in 2018 and are the first rock band to have four songs individually surpassing one billion streams.
 In this song, the singer uses the metaphorical device “dull knives” to express a hidden feeling of ongoing depression; a dull knife would take a long time to cut through an object, if at all. This is a metaphorical symbol because the “knives” are not physical, and therefore are not killing him physically, but are instead causing the singer to “lose [his] mind.”
 
