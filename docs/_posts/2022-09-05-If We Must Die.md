@@ -1,5 +1,5 @@
 ---
-title: If We Must Die
+title: If We Must Die - War Poetry Analysis
 date: 2022-09-05
 ---
 
@@ -24,4 +24,8 @@ Pressed to the wall, dying, but fighting back!</textarea>
 
 </div>
 
-WIP
+<div style="text-align:justify;text-justify:inter-word;">
+
+
+
+</div>
