@@ -1,5 +1,5 @@
 ---
-title: If We Must Die - War Poetry Analysis
+title: If We Must Die - Political Resistance Poetry Analysis
 date: 2022-09-05
 ---
 
