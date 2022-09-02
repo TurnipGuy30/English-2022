@@ -7,7 +7,7 @@ date: 2022-08-29
 
 <br>
 
-<iframe align="right" width="50%" src="https://www.youtube-nocookie.com/embed/7mr8go10ICQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe align="right" width="50%" src="https://www.youtube-nocookie.com/embed/7mr8go10ICQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="padding-left:10px;"></iframe>
 
 <div style="text-align:justify;text-justify:inter-word;">
 
