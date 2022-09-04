@@ -37,7 +37,7 @@ In this poem, McKay talks about the oppression he faced as a member of the black
 
 ---
 
-The poem has an interesting rhyme structure, with the first line of each stanza rhyming with the last line of the previous stanza. This creates a sense of continuity and flow, as the poem is read. The poem also uses alliteration, where the same letter is repeated at the start of words. This is most noticeable in the first line, where the letter <q>h</q> is repeated. This creates a sense of rhythm and flow, making the poem easier to read.
+The poem has a prominent rhyme structure that follows an "ABAB" rule until the last two lines, which rhyme together. This creates a sense of continuity and flow, as the poem is read. The poem also uses alliteration, where the same letter is repeated at the start of words. This is most noticeable in the first line, where the letter <q>h</q> is repeated. This creates a sense of rhythm and flow, making the poem easier to read.
 
 WIP
 
