@@ -1,12 +1,11 @@
 ---
-title: If We Must Die - Political Resistance Poetry Analysis
+title: If We Must Die - Poetry Analysis
 date: 2022-09-05
 ---
 
 <div align="right" style="float:right;padding-left:10px;">
 
 <textarea style="resize:none;text-align:center;" rows="14" cols="50" readonly>
-
 If we must die, let it not be like hogs
 Hunted and penned in an inglorious spot,
 While round us bark the mad and hungry dogs,
@@ -64,5 +63,9 @@ The language in this poem is specifically chosen to create a sense of emotion an
 <hr>
 
 Overall, this poem effectively connects with the reader and conveys the struggles of the black community. It makes use of many poetic devices, and uses a traditional sonnet structure. A first-person perspective is used, which creates a sense of empathy and connection with the reader.
+
+<hr>
+
+[Further information on Claude McKay](https://en.wikipedia.org/wiki/Claude_McKay)
 
 </div>
