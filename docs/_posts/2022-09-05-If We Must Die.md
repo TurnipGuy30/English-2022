@@ -39,6 +39,30 @@ In this poem, McKay talks about the oppression he faced as a member of the black
 
 The poem has a prominent rhyme structure that follows an "ABAB" rule until the last two lines, which rhyme together. This creates a sense of continuity and flow, as the poem is read. The poem also uses alliteration, where the same letter is repeated at the start of words. This is most noticeable in the first line, where the letter <q>h</q> is repeated. This creates a sense of rhythm and flow, making the poem easier to read.
 
-WIP
+<hr>
+
+The poem is written in the form of a sonnet, which is a 14-line poem with a specific rhyme scheme. Sonnets are traditionally written in iambic pentameter, which is a pattern of five stressed and five unstressed syllables per line. McKay’s poem follows this pattern, as can be seen in the following lines:
+
+> If we must die, let it not be like hogs
+> Hunted and penned in an inglorious spot,
+> While round us bark the mad and hungry dogs,
+> Making their mock at our accursèd lot.
+
+| **Line** | **Stressed** | **Unstressed** |
+|:--|:--|:--|
+| 1 | If | we must die, let it not be like hogs |
+| 2 | Hunted | and penned in an inglorious spot, |
+| 3 | While | round us bark the mad and hungry dogs, |
+| 4 | Making | their mock at our accursèd lot. |
+
+<hr>
+
+The poem is written in the first person, as McKay is speaking about himself and the black community. This creates a sense of empathy and connection with the reader. The poem also uses imagery to create a sense of emotion and atmosphere. The poem begins with the image of a hog, which is a symbol of the black community being treated like animals. The use of the words such as <q>inglorious</q> create a sense of shame and guilt, as it suggests that the black community is not proud of their place in society. The poem also uses imagery of dogs, which are often seen as vicious and dangerous. This creates a sense of fear and danger, as the black community is being hunted and attacked by their oppressors.
+
+The language in this poem is specifically chosen to create a sense of emotion and atmosphere. This is done through the use of poetic devices such as alliteration, imagery, and rhyme. The poem also uses a sonnet structure, which is a traditional form of poetry.
+
+<hr>
+
+Overall, this poem effectively connects with the reader and conveys the struggles of the black community. It makes use of many poetic devices, and uses a traditional sonnet structure. A first-person perspective is used, which creates a sense of empathy and connection with the reader.
 
 </div>
