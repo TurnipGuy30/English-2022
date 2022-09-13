@@ -32,7 +32,7 @@ Pressed to the wall, dying, but fighting back!</textarea>
 
 In this poem, McKay talks about the oppression he faced as a member of the black community. He refers to his oppressers as <q>monsters</q> and <q>[mad, hungry dogs]</q>. He also uses the metaphor of <q>hogs</q> to refer to the treatment of the black community, as they were treated like animals. McKay also calls the black community’s place in society an <q>inglorious spot</q> and suggests they were treated as an <q>accursed lot</q>. Therefore, the black community was treated disrepectfully and as if they were damned.
 
-<br><br>
+<br>
 
 <table style="text-align:left">
 	<thead>
@@ -61,7 +61,7 @@ The poem has a prominent rhyme structure that follows an "ABAB" rule until the l
 
 The poem is written in the form of a sonnet, which is a 14-line poem with a specific rhyme scheme. Sonnets are traditionally written in iambic pentameter, which is a pattern of five stressed and five unstressed syllables per line. McKay’s poem follows this pattern, as can be seen in the following lines:
 
-<br><br>
+<br>
 
 <blockquote>
 If we must die, let it not be like hogs<br>
@@ -70,7 +70,7 @@ While round us bark the mad and hungry dogs,<br>
 Making their mock at our accursèd lot.
 </blockquote>
 
-<br><br>
+<br>
 
 <table>
 	<thead>
