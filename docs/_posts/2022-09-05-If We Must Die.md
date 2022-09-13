@@ -64,10 +64,10 @@ The poem is written in the form of a sonnet, which is a 14-line poem with a spec
 <br><br>
 
 <blockquote>
-> If we must die, let it not be like hogs
-> Hunted and penned in an inglorious spot,
-> While round us bark the mad and hungry dogs,
-> Making their mock at our accursèd lot.
+If we must die, let it not be like hogs<br>
+Hunted and penned in an inglorious spot,<br>
+While round us bark the mad and hungry dogs,<br>
+Making their mock at our accursèd lot.
 </blockquote>
 
 <br><br>
