@@ -15,10 +15,20 @@ date: 2022-09-12
 
 <br><br>
 
-This song asks the rhetorical question <q>where is the love?</q> to express frustration at the lack of compassion in the world and depicts some of the world's problems, such as poverty, racism, and war.
+This song asks the rhetorical question <q>where is the love?</q> to express frustration at the lack of compassion in the world and depicts some of the world's problems, such as poverty, racism, and war. This question is repeated throughout the song, and the chorus is a call for people to come together and show love to one another. The song also uses a metaphor of a <q>broken mirror</q> to refer to the world, which suggests that the world needs to be fixed.
 
 <br><hr><br>
 
-WIP
+The song's main message of finding <q>the love</q> is shown throughout the lyrics, which are accompanied by a music video which shows the message of the song with the aid of images. The video shows images of poverty, racism, and war, then later images of people coming together and showing love to one another, which is the message of the song.
+
+<br><br>
+
+The song's message is also shown through the its structure. Its three verses are each sung by a different singer, which gives the listener the impression that the message is universal. The chorus is sung by all three singers, as the message is important and should be heard by everyone. In the verses, the singers will often string together many rhyming lines, which gives the song a rap-like, rhythmic feel. This rhyme pattern makes the song's arguments feel more powerful, as if the arguments used are well-structured and thought out.
+
+There are a number of specific issues mentioned in the song such as gangs, bombings, and financial greed. It tells of people being killed by selfishness and lack of compassion, and these acts are collectively referred to as a "demonstration [of] madness."
+
+<br><hr><br>
+
+The song <cite>Where Is The Love?</cite> is a song that expresses frustration at the lack of compassion in the world and depicts some of the world's major problems. The song's main message of finding <q>the love</q> is aided through the use of a music video. Overall, this song effectively and persuasively expresses that the world needs change, and that people need to come together and show love to one another.
 
 </div>
