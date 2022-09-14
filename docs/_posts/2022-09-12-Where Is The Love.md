@@ -25,7 +25,7 @@ The song's main message of finding <q>the love</q> is shown throughout the lyric
 
 The song's message is also shown through the its structure. Its three verses are each sung by a different singer, which gives the listener the impression that the message is universal. The chorus is sung by all three singers, as the message is important and should be heard by everyone. In the verses, the singers will often string together many rhyming lines, which gives the song rhythmic feel. This rhyme pattern makes the song's arguments feel more powerful, as if the arguments used are well-structured and thought out.
 
-There are a number of specific issues mentioned in the song such as gangs, bombings, and financial greed. It tells of people being killed by selfishness and lack of compassion, and these acts are collectively referred to as a "demonstration [of] madness."
+There are a number of specific issues mentioned in the song such as gangs, bombings, and financial greed. It tells of people being killed by selfishness and lack of compassion, and these acts are collectively referred to as a <q>demonstration [of] madness.</q>
 
 <br><hr><br>
 
