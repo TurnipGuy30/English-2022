@@ -29,6 +29,6 @@ There are a number of specific issues mentioned in the song such as gangs, bombi
 
 <br><hr><br>
 
-The song <cite>Where Is The Love?</cite> is a song that expresses frustration at the lack of compassion in the world and depicts some of the world's major problems. The song's main message of finding <q>the love</q> is aided through the use of a music video. Overall, this song effectively and persuasively expresses that the world needs change, and that people need to come together and show love to one another.
+<cite>Where Is The Love?</cite> is a song that expresses frustration at the lack of compassion in the world and depicts some of the world's major problems. Its main message of finding <q>the love</q> is aided through the use of a music video. Overall, this song effectively and persuasively expresses that the world needs change, and that people need to come together and show love to one another.
 
 </div>
