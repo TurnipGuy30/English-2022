@@ -30,7 +30,7 @@ Pressed to the wall, dying, but fighting back!</textarea>
 
 <br><br>
 
-In this poem, McKay talks about the oppression he faced as a member of the black community. He refers to his oppressers as <q>monsters</q> and <q>[mad, hungry dogs]</q>. He also uses the metaphor of <q>hogs</q> to refer to the treatment of the black community, as they were treated like animals. McKay also calls the black community’s place in society an <q>inglorious spot</q> and suggests they were treated as an <q>accursed lot</q>. Therefore, the black community was treated disrepectfully and as if they were damned.
+In this poem, McKay talks about the oppression he faced as a member of the black community. He refers to his oppressors as <q>monsters</q> and <q>[mad, hungry dogs]</q>. He also uses the metaphor of <q>hogs</q> to refer to the treatment of the black community, as they were treated like animals. McKay also calls the black community’s place in society an <q>inglorious spot</q> and suggests they were treated as an <q>accursed lot</q>. Therefore, the black community was treated disrespectfully and as if they were damned.
 
 <br><br>
 
@@ -110,11 +110,11 @@ The poem is written in the first person, as McKay is speaking about himself and 
 
 <br><br>
 
-The language in this poem is specifically chosen to create a sense of emotion and atmosphere. This is done through the use of poetic devices such as alliteration, imagery, and rhyme. The poem also uses a sonnet structure, which is a traditional form of poetry.
+The language in this poem is specifically chosen to create a sense of emotion and atmosphere. This is done using poetic devices such as alliteration, imagery, and rhyme. The poem also uses a sonnet structure, which is a traditional form of poetry.
 
 <br><hr><br>
 
-Overall, this poem effectively connects with the reader and conveys the struggles of the black community. It makes use of many poetic devices, and uses a traditional sonnet structure. A first-person perspective is used, which creates a sense of empathy and connection with the reader. The poem calls for people to be inclusive and respectful of their differences.
+Overall, this poem effectively connects with the reader and conveys the struggles of the black community. It makes use of many poetic devices and uses a traditional sonnet structure. A first-person perspective is used, which creates a sense of empathy and connection with the reader. The poem calls for people to be inclusive and respectful of their differences.
 
 <br><hr><br>
 
