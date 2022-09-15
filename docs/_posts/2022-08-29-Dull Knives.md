@@ -31,7 +31,7 @@ All these devices combined create a sense of chaos and overwhelming, where the s
 
 <br><hr><br>
 
-Overall, this song excellently conveys the struggles caused by society’s neglect of depressive symptoms. It tells of a man who <q>inside [is] a mess, but [doesn’t] let it show,</q> and makes heavy use of the musical element of intensity to emphasise the seriousness of the message.
+Overall, this song excellently conveys the struggles caused by society’s neglect of depressive symptoms. It tells of a man who <q>inside [is] a mess, but [doesn’t] let it show,</q> and makes heavy use of the musical element of intensity to emphasise the seriousness of the message. The song calls for people to be aware of depressive symptoms and to help those who are suffering.
 
 <br><hr><br>
 
