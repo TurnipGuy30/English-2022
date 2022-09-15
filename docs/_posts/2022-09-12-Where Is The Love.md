@@ -11,7 +11,7 @@ date: 2022-09-12
 
 <div style="text-align:justify;text-justify:inter-word;">
 
-<cite>Where Is The Love?</cite> is a song by <cite>The Black Eyed Peas</cite>, founded in 1995. <cite>The Black Eyed Peas</cite> is a Grammy Award-winning rap group, and has sold over 80 million records worldwide.
+<cite>Where Is The Love?</cite> is a song by <cite>The Black Eyed Peas</cite>, founded in 1995. <cite>The Black Eyed Peas</cite> is a Grammy Award-winning rap group and has sold over 80 million records worldwide.
 
 <br><br>
 
@@ -23,11 +23,11 @@ The song's main message of finding <q>the love</q> is shown throughout the lyric
 
 <br><br>
 
-The song's message is also shown through the its structure. Its three verses are each sung by a different singer, which gives the listener the impression that the message is universal. The chorus is sung by all three singers, as the message is important and should be heard by everyone. In the verses, the singers will often string together many rhyming lines, which gives the song rhythmic feel. This rhyme pattern makes the song's arguments feel more powerful, as if the arguments used are well-structured and thought out.
+The song's message is also shown through its structure. Its three verses are each sung by a different singer, which gives the listener the impression that the message is universal. The chorus is sung by all three singers, as the message is important and should be heard by everyone. In the verses, the singers will often string together many rhyming lines, which gives the song rhythmic feel. This rhyme pattern makes the song's arguments feel more powerful, as if the arguments used are well-structured and thought out.
 
 <br><br>
 
-There are a number of specific issues mentioned in the song such as gangs, bombings, and financial greed. It tells of people being killed by selfishness and lack of compassion, and these acts are collectively referred to as a <q>demonstration [of] madness.</q>
+There are several specific issues mentioned in the song such as gangs, bombings, and financial greed. It tells of people being killed by selfishness and lack of compassion, and these acts are collectively referred to as a <q>demonstration [of] madness.</q>
 
 <br><br>
 
@@ -35,6 +35,6 @@ A line in the chorus calls for <q>[our] Father [to] help us [by sending] guidanc
 
 <br><hr><br>
 
-<cite>Where Is The Love?</cite> is a song that expresses frustration at the lack of compassion in the world and depicts some of the world's major problems. Its main message of finding <q>the love</q> is aided through the use of a music video. Overall, this song effectively and persuasively expresses that the world needs change, and that people need to come together and show love to one another.
+<cite>Where Is The Love?</cite> is a song that expresses frustration at the lack of compassion in the world and depicts some of the world's major problems. Its main message of finding <q>the love</q> is aided by a music video. Overall, this song effectively and persuasively expresses that the world needs change, and that people need to come together and show love to one another.
 
 </div>
