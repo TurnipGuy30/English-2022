@@ -114,7 +114,7 @@ The language in this poem is specifically chosen to create a sense of emotion an
 
 <br><hr><br>
 
-Overall, this poem effectively connects with the reader and conveys the struggles of the black community. It makes use of many poetic devices, and uses a traditional sonnet structure. A first-person perspective is used, which creates a sense of empathy and connection with the reader.
+Overall, this poem effectively connects with the reader and conveys the struggles of the black community. It makes use of many poetic devices, and uses a traditional sonnet structure. A first-person perspective is used, which creates a sense of empathy and connection with the reader. The poem calls for people to be inclusive and respectful of their differences.
 
 <br><hr><br>
 
